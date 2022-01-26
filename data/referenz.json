@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Einfamilienhaus, Erlenbach",
+    "image": "/assets/img/referenz/referenz_einfamilienhaus_erlenbach.jpg",
+    "category": "Aussentüren"
+  },
+  {
+    "id": 2,
+    "title": "Stadtvillen Hitzlisberg",
+    "image": "/assets/img/referenz/referenz_stadtvillen_hitzlisberg.jpg",
+    "category": "Denkmalpflege"
+  },
+  {
+    "id": 3,
+    "title": "Wohnueberbauung Kummrueti",
+    "image": "/assets/img/referenz/referenz_wohnueberbauung_kummrueti.jpg",
+    "category": "Fenster"
+  },
+  {
+    "id": 4,
+    "title": "MFH Luzern",
+    "image": "/assets/img/referenz/referenz_mfh_luzern.jpg",
+    "category": "Hebeschiebetüren- /Fenster"
+  },
+  {
+    "id": 5,
+    "title": "Einfamilienhaus, Maennedorf",
+    "image": "/assets/img/referenz/referenz_einfamilienhaus_maennedorf.jpg",
+    "category": "Pfostenriegelfassade"
+  },
+  {
+    "id": 6,
+    "title": "Einfamilienhaus Aurorastrasse",
+    "image": "/assets/img/referenz/referenz_einfamilienhaus_aurorastrasse.jpg",
+    "category": "Pfostenriegelfassade"
+  },
+  {
+    "id": 7,
+    "title": "EFH Bachenbülach",
+    "image": "/assets/img/referenz/referenz_efh_bachenbuelach.jpg",
+    "category": "Hebeschiebetüren- /Fenster"
+  },
+  {
+    "id": 8,
+    "title": "Casa Sonvico",
+    "image": "/assets/img/referenz/referenz_casa_sonvico.jpg",
+    "category": "Fenster"
+  },
+  {
+    "id": 9,
+    "title": "Atriumvillen, Winterthur",
+    "image": "/assets/img/referenz/referenz_atriumvillen_winterthur.jpg",
+    "category": "Denkmalpflege"
+  }
+]

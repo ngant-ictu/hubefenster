@@ -1,0 +1,31 @@
+{
+  "name": "huberfenster-fe",
+  "private": true,
+  "scripts": {
+    "dev_https": "node server.js",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@georgedrpg/pannellum-react-next": "^1.2.5",
+    "axios": "^0.24.0",
+    "framer-motion": "^5.3.3",
+    "next": "12.0.4",
+    "pannellum-react": "^1.2.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-intersection-observer": "^8.33.1",
+    "react-parallax": "^3.3.0",
+    "react-transition-group": "^4.4.2",
+    "sass": "^1.43.5",
+    "styled-components": "^5.3.3",
+    "swiper": "^6.8.4"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
+    "eslint": "7",
+    "eslint-config-next": "12.0.4"
+  }
+}

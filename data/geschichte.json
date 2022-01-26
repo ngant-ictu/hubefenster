@@ -1,0 +1,287 @@
+[
+  {
+    "id": 0,
+    "time": "1987",
+    "title": {
+      "text": "Bezug Neubau an der St. Gallerstrasse 57, <span>Herisau (25 Mitarbeiter)</span>",
+      "className": ""
+    },
+    "images":[
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-1987.jpg",
+        "alt": "Bezug Neubau an der St. Gallerstrasse 57",
+        "width": 449,
+        "height": 650,
+        "className": "right image-ab"
+      }
+    ],
+    "className": "flex justify-between h-252" 
+  },
+  {
+    "id": 1,
+    "time": "2001",
+    "title": {
+      "text": "Eröffnung Büro mit Ausstellung, Zürich",
+      "className": "box-pb-2"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2001.jpg",
+        "alt": "story-2001",
+        "width": 450,
+        "height": 338,
+        "className": "box-pl-1"
+      }
+    ],
+    "className": "box-pb-2" 
+  },
+  {
+    "id": 2,
+    "time": "2005",
+    "title": {
+      "text": "Realisierung Badrutt’s Palace Hotel,<span>St. Moritz. Küchel Architects AG, Zürich</span>",
+      "className": "box-pb-2"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2005.jpg",
+        "alt": "story-2005",
+        "width": 863,
+        "height": 598,
+        "className": "image-left"
+      }
+    ],
+    "className":""
+  },
+  {
+    "id": 3,
+    "time": "2006",
+    "title": {
+      "text": "Erstes Objekt in Griechenland: <span>private Residenz, Athen. Palleroni/Leite Architects,</span> <span>Seattle Washington, USA</span>",
+      "className": "box-pb-2"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2006.jpg",
+        "alt": "story-2006.jpg",
+        "width": 338,
+        "height": 224,
+        "className": "box-pl-2"
+      }
+    ],
+    "className": "box-pb" 
+  },
+  {
+    "id": 4,
+    "time": "2007",
+    "title": {
+      "text": "Neubau Speditionshalle Herisau",
+      "className": " "
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2007.jpg",
+        "alt": "story-2007",
+        "width": 616,
+        "height": 427,
+        "className": "right"
+      }
+    ],
+    "className": "flex align-end time-2007 h-138" 
+  },
+  {
+    "id": 5,
+    "time": "2008",
+    "title": {
+      "text": "Ausführung The Grand Dolder Hotel, <span>Zürich. Foster+Partners, London, zusammen mit</span> <span>Itten+Brechbuehl AG Architekten, Zürich</span>",
+      "className": "box-pb-2"
+    },
+    "className":""
+  },
+  {
+    "id": 6,
+    "time": "2008",
+    "title": {
+      "text": "Erstes Denkmalpflege – Objekt in Holz/Metall: <span>Geschäftshaus Bellevue, Zürich. </span> <span>Spühler Partner Architekten AG, Zürich</span>",
+      "className": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2008-fensterfabrikation.jpg",
+        "alt": "story-2008-huber-fenster",
+        "width": 402,
+        "height": 181,
+        "className": "box-pl-3"
+      },
+      {
+        "id": 2,
+        "src": "/assets/img/geschichte/story-2008-huber-fenster.jpg",
+        "alt": "story-2008-huber-fenster",
+        "width": 242,
+        "height": 272,
+        "className": "image-right"
+      }
+    ] ,
+    "className": "time-2008 box-pb-2 "
+  },
+  {
+    "id": 7,
+    "time": "2009",
+    "title": {
+      "text":  "Erstes Objekt in Saint- Tropez: private <span>Villa.  François Vieillecroze,</span> Saint-Tropez",
+      "className": "text-left box-mr-1 w-487"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2009.jpg",
+        "alt": "story-2009",
+        "width": 291,
+        "height": 394,
+        "className": "box-mt_1"
+      }
+    ],
+    "className": "flex box-pb-2"
+  },
+  {
+    "id": 8,
+    "time": "2010",
+    "title": {
+      "text":  "Erstes Objekt mit Charles Pictet <span>Architectes FAS SIA,</span> Genf: Private Villa in Anières GE",
+      "className": "text-left box-mr-1 w-525"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2010.jpg",
+        "alt": "story-2010",
+        "width": 592,
+        "height": 415,
+        "className": " "
+      }
+    ],
+    "className": "flex" 
+  },
+  {
+    "id": 9,
+    "time": "2012",
+    "title": {
+      "text": "Teilnahme zusammen mit FHS Konstanz am „Solar Decathlon“, einem der renommiertesten Architektur-Wettbewerbe der Welt. Die Huber Fenster AG fertigte für das Team „ecolar“ extra schlanke Hebeschiebetüren in Eiche mit Structural-Glazing-Verglasung in flächenbündiger Optik.",
+      "className": "box-pb-2"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2012.jpg",
+        "alt": "story-2012",
+        "width": 686,
+        "height": 460,
+        "className": "box-pl-4"
+      }
+    ],
+    "className": "time-2012" 
+  },
+  {
+    "id": 10,
+    "time": "2014",
+    "title": {
+      "text":  "Büro- und Ausstellungs-<span> eröffnung, Horgen</span>",
+      "className": "w-480 "
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2014.jpg",
+        "alt": "story-2014",
+        "width": 571,
+        "height": 429,
+        "className": "box-mt-1 "
+      }
+    ],
+    "className": "flex box-pb" 
+  },
+  {
+    "id": 11,
+    "time": "2013-2015",
+    "title": {
+      "text": "Neubau Malerei, Büro, Ausstellung, Gewerbefläche, Herisau",
+      "className": " "
+    },
+    "className": "box-pb-1"
+  },
+  {
+    "id": 12,
+    "time": "2016",
+    "title": {
+      "text":  "133-Jahr-Jubiläum",
+      "className": "box-mr-2 space-nowrap"
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2016.jpg",
+        "alt": "story-2016",
+        "width": 705,
+        "height": 560,
+        "className": "box-mt_2"
+      }
+    ],
+    "className": "flex box-pb-1" 
+  },
+  {
+    "id": 13,
+    "time": "2017",
+    "title": {
+      "text": "Höchste Auszeichnung im Red Dot Award: Product Design",
+      "className": "box-pb-1 "
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2017.jpg",
+        "alt": "story-2017",
+        "width": 845,
+        "height": 390,
+        "className": "box-pl-2"
+      }
+    ] 
+  },
+  {
+    "id": 14,
+    "time": "2018",
+    "title": {
+      "text":  "Übernahme Leitung durch Pascal Huber und Matthias Huber",
+      "className": " "
+    },
+    "desc_download": {
+      "text": "Download <span>Imageprospekt</span> Design (PDF, 5.6 MB)",
+      "link": "#"
+    }, 
+    "className": "time-2018" 
+  },
+  {
+    "id": 15,
+    "time": "2020",
+    "title": {
+      "text":  "1000 m² Showroom Herisau",
+      "className": "space-nowrap box-mr-2 "
+    },
+    "images": [
+      {
+        "id": 0,
+        "src": "/assets/img/geschichte/story-2020.jpg",
+        "alt": "story-2017",
+        "width": 650,
+        "height": 864,
+        "className": "mt-showroom "
+      }
+    ],
+    "className": "flex" 
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "© Huber Fenster",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "Impressum",
+    "link": "/impressum"
+  },
+  {
+    "id": 3,
+    "title": "AGBs",
+    "link": "/agbs"
+  }
+]

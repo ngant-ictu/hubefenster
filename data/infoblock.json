@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "description": "Bei der Huber Fenster AG treffen Sie auf kompetente Gespraechspartner, die individuell und mit viel Erfahrung beraten. ",
+    "link": "#",
+    "title_viewmore": "Team",
+    "image_1": [
+      {
+        "link": "/assets/img/Eingang_CHM.jpg",
+        "width": 514,
+        "height": 648,
+        "title": "huberfenster image"
+      }
+    ], 
+    "image_2": [
+      {
+        "link": "/assets/img/inhalt2.jpg",
+        "width": 454,
+        "height": 302,
+        "title": "huberfenster image"
+      }
+    ] 
+  }
+]

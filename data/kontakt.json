@@ -1,0 +1,73 @@
+[
+  {
+    "data": [
+      {
+        "id": 0,
+        "city": "Herisau",
+        "title": "Hauptsitz <span>Planung / Beratung / Fertigung</span>",
+        "company": "Huber Fenster AG",
+        "adress": "St. Gallerstrasse 57 <span>CH-9100 Herisau</span>",
+        "phone": "+41  71 354 88 11",
+        "email": "info@huberfenster.ch"
+      },
+      {
+        "id": 1,
+        "city": "Zürich",
+        "title": "Niederlassung <span>Planung / Beratung</span>",
+        "company": "Huber Fenster AG",
+        "adress": "St. Gallerstrasse 57 <span>CH-8000 Zürich</span>",
+        "phone": "+41  71 354 88 11",
+        "email": "info@huberfenster.ch"
+      },
+      {
+        "id": 2,
+        "city": "Showroom",
+        "title": "Hauptsitz <span>Planung / Beratung / Fertigung</span>",
+        "company": "Huber Fenster AG",
+        "adress": "St. Gallerstrasse 57 <span>CH-9100 Herisau</span>",
+        "phone": "+41  71 354 88 11",
+        "email": "info@huberfenster.ch"
+      }
+    ]
+  },
+  {
+    "images": [
+      {
+        "id": 0,
+        "image": "/assets/img/360/panorama-1.jpg"
+      },
+      {
+        "id": 1,
+        "image": "/assets/img/360/panorama-2.jpg"
+      },
+      {
+        "id": 2,
+        "image": "/assets/img/360/panorama-3.jpg"
+      },
+      {
+        "id": 3,
+        "image": "/assets/img/360/panorama-4.jpg"
+      },
+      {
+        "id": 4,
+        "image": "/assets/img/360/panorama-5.jpg"
+      },
+      {
+        "id": 5,
+        "image": "/assets/img/360/panorama-6.jpg"
+      },
+      {
+        "id": 6,
+        "image": "/assets/img/360/panorama-7.jpg"
+      },
+      {
+        "id": 7,
+        "image": "/assets/img/360/panorama-8.jpg"
+      },
+      {
+        "id": 8,
+        "image": "/assets/img/360/panorama-9.jpg"
+      }
+    ]
+  }
+] 

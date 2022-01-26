@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "title": "Referenzen",
+    "link": "/referenz",
+    "sub": [
+      {
+        "id": 0,
+        "title": "Projekte",
+        "link": "/referenz"
+      },
+      {
+        "id": 1,
+        "title": "Aktuell",
+        "link": "/aktuelle"
+      },
+      {
+        "id": 2,
+        "title": "Architekten",
+        "link": "/architekten"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Hubothek",
+    "link": "/hubothek",
+    "sub": [
+      {
+        "id": 0,
+        "title": "Produkte",
+        "link": "/hubothek#product"
+      },
+      {
+        "id": 1,
+        "title": "Materialien",
+        "link": "/hubothek#material"
+      },
+      {
+        "id": 2,
+        "title": "Gadgets",
+        "link": "/hubothek#gadget"
+      },
+      {
+        "id": 3,
+        "title": "Konfigurator",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Unternehmen",
+    "link": "/unternehmen",
+    "sub": [
+      {
+        "id": 0,
+        "title": "Über uns",
+        "link": "/unternehmen"
+      },
+      {
+        "id": 1,
+        "title": "Team",
+        "link": "/team"
+      },
+      {
+        "id": 2,
+        "title": "Jobs",
+        "link": "/job"
+      },
+      {
+        "id": 3,
+        "title": "Geschichte",
+        "link": "/geschichte"
+      },
+      {
+        "id": 4,
+        "title": "Nachhaltigkeit",
+        "link": "/sustainability"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Kontakt",
+    "link": "/kontakt",
+    "sub": [
+      {
+        "id": 0,
+        "title": "Herisau",
+        "link": "#"
+      },
+      {
+        "id": 1,
+        "title": "Zürich",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "title": "Showroom",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "title": "Service",
+        "link": "/service"
+      }
+    ]
+  }
+]

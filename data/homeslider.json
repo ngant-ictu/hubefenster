@@ -1,0 +1,25 @@
+[
+  {
+    "id": 0,
+    "title": "Projektname und Ortschaft",
+    "link": "#",
+    "title_url": "Projekt",
+    "image": "/assets/img/slider/morgartenstrasse_zuerich-1.jpg",
+    "desc_twt": "1 Preis bei “Lösung des Jahres 2021 Award Häuser des Jahres”",
+    "link_twt": "#"
+  },
+  {
+    "id": 1,
+    "title": "Projektname und Ortschaft",
+    "link": "#",
+    "title_url": "Projekt",
+    "image": "/assets/img/slider/morgartenstrasse_zuerich-2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Projektname und Ortschaft",
+    "link": "#",
+    "title_url": "Projekt",
+    "image": "/assets/img/slider/morgartenstrasse_zuerich-3.jpg"
+  }
+]

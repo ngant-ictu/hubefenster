@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "desc": "Huber Fenster AG ist ein dynamisches, zukunftsorientiertes Familienunter-nehmen. Unsere Stärke liegt im Entwickeln und Umsetzen von innovativen Speziallösungen im Fensterbau. Wir bieten unseren Kunden höchste Qualität und Ästhetik. Genau diese Anforderungen stellen wir auch an unsere Mitarbeiter. Senden Sie uns Ihre Bewerbung."
+  },
+  {
+    "id": 1,
+    "members": [
+      {
+        "id": 0,
+        "name": "Tanja Ameti",
+        "position": "Lehrtochter 1. Jahr",
+        "major": "Schreinerei",
+        "image":  "/assets/img/job/tanja-ameti.jpg",
+        "video": "https://www.youtube.com/embed/lGPK-QkBTEA"
+      },
+      {
+        "id": 2,
+        "name": "Rolf Hegenbuch",
+        "position": "Lehrling 3. Lehrjahr",
+        "major": "Kaufmann",
+        "image":  "/assets/img/job/rolf-hegenbuch.jpg",
+        "video": "https://www.youtube.com/embed/kVb3-2U8i1c"
+      },
+      {
+        "id": 0,
+        "name": "Fabian Schärer",
+        "position": "Mitarbeiter",
+        "major": "Glaserei",
+        "image":  "/assets/img/job/fabian-scharer.jpg",
+        "video": "https://www.youtube.com/embed/1wq03c3BCJ4"
+      }
+    ]
+  },
+    {
+    "id": 2,
+    "category": "Offene Lehrstellen 2022",
+    "data": [
+      {
+          "id": 0,
+          "name": {
+              "en": "Jobs EN",
+              "de": "Schreiner/in"
+          }
+      },
+      {
+        "id": 1,
+        "name": {
+            "en": "Jobs EN 1",
+            "de": "Schreinerpraktiker/in"
+        }
+    },
+    {
+      "id": 2,
+      "name": {
+          "en": "Jobs EN 2",
+          "de": "Kaufmann/-frau EFZ"
+       }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Deine Lehre bei uns",
+    "desc": "Möchtest du dein Talent und deine Motivation in unserem dynamischen Betrieb einbringen? Eine Lehre bei der Huber Fenster AG ermöglicht dir einen optimalen Start ins Berufsleben und bietet dir eine fundierte Ausbildung."
+  },
+  {
+    "id": 4,
+    "title": "Haben wir dein Interesse geweckt?",
+    "desc": "Dann schicke dein komplettes Bewerbungsdossier Motivationsschreiben, Zeugniskopien, Lebenslauf etc. an: Huber Fenster AG, Jacqueline Nossack, St.Gallerstrasse 57, 9100 Herisau, Tel. 071 354 88 11"
+  }
+]

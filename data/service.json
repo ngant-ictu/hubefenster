@@ -1,0 +1,78 @@
+[
+  {
+    "id": 0,
+    "list": [
+      {
+        "id" : 0,
+        "icon": "/assets/img/icons/icon-service.svg",
+        "title": "Serviceleistung XY Kontaktformular",
+        "description": "Bitte allen Angaben gemäss PDF zum Download ausfüllen"
+      },
+      {
+        "id" : 1,
+        "icon": "/assets/img/icons/icon-service.svg",
+        "title": "Serviceleistung XY Kontaktformular",
+        "description": "Bitte allen Angaben gemäss PDF zum Download ausfüllen"
+      },
+      {
+        "id" : 2,
+        "icon": "/assets/img/icons/icon-service.svg",
+        "title": "Serviceleistung XY Kontaktformular",
+        "description": "Bitte allen Angaben gemäss PDF zum Download ausfüllen"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Exzellenter Service",
+    "description": "Unsere Kunden haben hohe Ansprüche und schätzen unsere hochqualitativen Produkte. Der hervorragende Leistungsausweis der Firma Huber Fenster AG wird im Service fortgesetzt. Das Serviceteam komplettiert das Angebot und arbeitet Hand in Hand mit den übrigen Fensterspezialisten der Huber Fenster AG."
+  }, 
+  {
+    "id": 2,
+    "title": " Wartung zu Empfehlen",
+    "description": "Regelmässige Wartung ist ganz im Sinne unserer Kunden, denn die Lebensdauer der Produkte wird erhöht und die Reparaturanfälligkeit sinkt. Aufgrund der langjährigen Erfahrung stehen Ihnen unsere Servicespezialisten auch in Energiesparfragen kompetent zur Seite. Auch hier zahlt sich nachhaltiges Handeln aus, denn durch energetische Verbesserungen können Energiekosten massiv reduziert werden."
+  },
+  {
+    "id": 3,
+    "description": "Wartungsarbeiten an Fenstern und Türen können u.a. sein:",
+    "list": [
+      {
+        "id": 0,
+        "content": "Überprüfung aller sicherheitsrelevanter Funktionen"
+      },
+      {
+        "id": 1,
+        "content": "Einstellen und Überprüfen von Fensterbeschlägen"
+      },
+      {
+        "id": 2,
+        "content": "Schmieren von beweglichen Teilen"
+      },
+      {
+        "id": 3,
+        "content": "Vorbeugung und Kontrolle durch die Witterung entstandener Beschädigungen"
+      },
+      {
+        "id": 4,
+        "content": "Kontrolle der Dichtigkeit"
+      },
+      {
+        "id": 5,
+        "content": "Kontrolle und Reinigung Entwässerungen"
+      },
+      {
+        "id": 6,
+        "content": "Erneuerung von Fugen"
+      },
+      {
+        "id": 7,
+        "content": "Gerne stellen wir Ihnen einen auf Sie abgestimmten Wartungsvertrag zusammen. Haben Sie Fragen oder wünschen Sie eine Beratung?"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Grosse und kleine Reparaturen und sonstige Arbeiten",
+    "description": "Unsere Serviceprofis kümmern sich sowohl um kleinere Reparaturen wie auch um Totalsanierungen. Unser Wissen ist sehr breit, so reparieren wir auch Fenstersysteme fremder Hersteller. Auch andere Arbeiten sind bei unserem Serviceteam gut aufgehoben: z.B. der Einbau einer Katzentüre, ein Glaswechsel oder das Einstellen eines klemmenden Fensters. Ob grosse oder kleine Anliegen sie werden in jedem Fall mit grösster Sorgfalt erledigt."
+  }
+]
